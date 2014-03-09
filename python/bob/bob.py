@@ -1,7 +1,9 @@
 class Bob:
-	def __init__(self):
-	def Bob(self):
+	def bob(self):
 		return self
+	def hey(self, sentence):
+		if sentence == "":
+			return "Fine. Be that way!"
 
 
 
